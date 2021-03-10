@@ -2,8 +2,8 @@ This line is from local computer
 
 this line added in local and in master branch
 
-
+<<<<<<< HEAD
 this line is added by branch2 locally
-
+=======
 this line is from branch1 locally
-
+>>>>>>> branch1
