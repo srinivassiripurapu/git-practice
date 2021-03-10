@@ -1,3 +1,5 @@
 This line is from local computer
 
 this line added in local and in master branch
+
+this line is added by branch2 locally
