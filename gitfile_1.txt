@@ -10,3 +10,7 @@ this line is from branch1 locally
 this line added by master locally
 
 line added by master locally
+
+this line added from remote repo
+this line added from remote repo again
+
